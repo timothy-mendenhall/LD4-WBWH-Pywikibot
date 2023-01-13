@@ -1,7 +1,5 @@
-# Using Wikibase as a platform for library linked data management and discovery
+# Basic PyWikibot scripts for adding properties to Wikibase / wikibase.cloud instances
 
-OCLC DevConnect Online webinar, 16 October 2018
+The scripts and property spreadsheets are based on models originally presented during an OCLC DevConnect Online webinar, 16 October 2018
 
-This project includes sample data and a Python script used for a live demonstration of installing Wikibase and loading data with Pywikibot.  
-
-For more information about the webinar, a detailed script used for the demonstration, and sample data and scripts, [consult the project Wiki](https://github.com/OCLC-Developer-Network/devconnect_2018_wikibase/wiki).
+This project includes sample data and a Python script for loading properties into Wikibase instances with Pywikibot.
